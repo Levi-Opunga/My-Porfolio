@@ -1,70 +1,70 @@
 @keyframes change-image {
     0% {
-        background-image: url(../images/Martin\ 1.png)
+        background-image: url(../images/Martin\ 1.png);
     }
     25% {
-        background-image: url(../images/MGARRIX.jpg)
+        background-image: url(../images/MGARRIX.jpg);
     }
     75% {
-        background-image: url(../images/Martin-Garrix-2019_1-373x560.jpg)
+        background-image: url(../images/Martin-Garrix-2019_1-373x560.jpg);
     }
     100% {
-        background-image: url(../images/Martin-Garrix-Head-Shot.jpg)
+        background-image: url(../images/Martin-Garrix-Head-Shot.jpg);
     }
 }
 
 .violet {
-    background-color: #BEB7DF;
+    background-color: #beb7df;
 }
 
 .whitetext {
-    color: white
+    color: white;
 }
 
 .gold {
-    color: gold
+    color: gold;
 }
 
 .box-animation:hover {
     animation-name: change-image;
     animation-duration: 15s;
     animation-iteration-count: infinite;
-    padding: 400px 500px
+    padding: 400px 500px;
 }
 
 .whitebackground {
-    background-color: azure
+    background-color: azure;
 }
 
 hr.double {
     height: 10px;
-    border-top: 5px double#373D43
+    border-top: 5px double#373D43;
 }
 
 hr {
     height: 10px;
-    border-top: 5px double#f4f7fa
+    border-top: 5px double#f4f7fa;
 }
 
 .right {
-    text-align: left
+    text-align: left;
 }
 
 .bluebackground {
-    background-color: #17c1d8
+    background-color: #17c1d8;
 }
 
 .defaulttext {
-    color: #4f99fa
+    color: #4f99fa;
 }
 
 body {
-    background-color: #D4F2D2
+    background-color: #d4f2d2;
 }
 
 h1.padding {
-    padding-bottom: 60px;
     padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .edges {
