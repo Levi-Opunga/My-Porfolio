@@ -17,20 +17,38 @@
     background-color: #BEB7DF;
 }
 
+.whitetext {
+    color: white
+}
+
+.gold {
+    color: gold
+}
+
+.margin {
+    width: 1000px;
+    height: 400px
+}
+
 .box-animation {
     animation-name: change-image;
-    animation-duration: 10s;
+    animation-duration: 15s;
     animation-iteration-count: infinite;
-    padding: 300px 500px
+    padding: 400px 500px
 }
 
 .whitebackground {
     background-color: azure
 }
 
-hr {
+hr.double {
     height: 10px;
     border-top: 5px double#373D43
+}
+
+hr {
+    height: 10px;
+    border-top: 5px double#f4f7fa
 }
 
 .right {
