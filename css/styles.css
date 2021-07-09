@@ -1,11 +1,63 @@
-.bluebackground {
-    background-color: #949B93
+@keyframes change-image {
+    0% {
+        background-image: url(../images/Martin\ 1.png)
+    }
+    25% {
+        background-image: url(../images/MGARRIX.jpg)
+    }
+    75% {
+        background-image: url(../images/Martin-Garrix-2019_1-373x560.jpg)
+    }
+    100% {
+        background-image: url(../images/Martin-Garrix-Head-Shot.jpg)
+    }
 }
 
-.headertext {
-    color: #6A0F49
+.violet {
+    background-color: #BEB7DF;
+}
+
+.box-animation {
+    animation-name: change-image;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    padding: 300px 500px
+}
+
+.whitebackground {
+    background-color: azure
+}
+
+hr {
+    height: 10px;
+    border-top: 5px double#373D43
+}
+
+.right {
+    text-align: left
+}
+
+.bluebackground {
+    background-color: #17c1d8
+}
+
+.defaulttext {
+    color: #4f99fa
 }
 
 body {
     background-color: #373D43
+}
+
+h1.padding {
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+.edges {
+    border-radius: 10px;
+}
+
+#floatimage1 {
+    float: left;
 }
