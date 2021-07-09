@@ -1,15 +1,33 @@
 @keyframes change-image {
     0% {
-        background-image: url(../images/Martin\ 1.png);
+        background-image: url(../images/1.png);
     }
     25% {
-        background-image: url(../images/MGARRIX.jpg);
+        background-image: url(../images/15-Presentation-Background-Examples28.jpeg);
     }
     75% {
-        background-image: url(../images/Martin-Garrix-2019_1-373x560.jpg);
+        background-image: url(../images/wp2561064.jpg);
     }
     100% {
-        background-image: url(../images/Martin-Garrix-Head-Shot.jpg);
+        background-image: url(../images/85599507a79bb9b01035678715de32f6.jpg);
+    }
+}
+
+@keyframes change-image2 {
+    0% {
+        background-image: url(../images/gamingdesksetup_1.jpg);
+    }
+    20% {
+        background-image: url(../images/inspiration-and-tips-for-your-ultimate-desk-gaming-pc-setup-645.jpg);
+    }
+    60% {
+        background-image: url(../images/white-desk.jpg);
+    }
+    80% {
+        background-image: url(../images/72f8a4c7b8f1ad834477d621217a20b1.jpg);
+    }
+    100% {
+        background-image: url(../images/productionstudioweb.jpg);
     }
 }
 
@@ -27,6 +45,14 @@
 
 .box-animation {
     animation-name: change-image;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    padding: 0%;
+    box-sizing: inherit;
+}
+
+div.box-animation {
+    animation-name: change-image2;
     animation-duration: 15s;
     animation-iteration-count: infinite;
     padding: 15%;
@@ -60,7 +86,7 @@ hr {
 }
 
 body {
-    background-color: #373d43;
+    background-color: #4a6783;
 }
 
 h1.padding {
@@ -110,4 +136,25 @@ h1.padding {
 
 .bigtext {
     font-size: 2em;
+}
+
+h3 {
+    font-family: "Otomanopee One", sans-serif;
+    font-size: 2sem;
+}
+
+.fantasy {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.list1 {
+    font-family: "Yomogi", cursive;
+}
+
+.nsize {
+    font-size: 1em;
+}
+
+ul.darkt {
+    color: black;
 }
