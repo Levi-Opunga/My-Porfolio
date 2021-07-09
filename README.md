@@ -14,8 +14,10 @@ Here is a for link preview:https://levi-opunga.github.io/My-Porfolio/
 - Get files by cloning the repository by running command $ git clone
 - Open the index.html file with any web browser for viewing
 - To open project in a text editor with for easy working access the My Portfolio directory in which it is saved through the terminal
-- If using atom open by running command >$ atom .
-- If using Visual Studio Code open by running command >$ code .
+- If using atom open by running command
+  '$ atom .'
+- If using Visual Studio Code open by running command
+  '$ code .'
 
 ## Known Bugs
 
@@ -23,8 +25,8 @@ No known bugs contact me if any is found.
 
 ## Technologies Used
 
-HTML
-CSS
+> HTML
+> CSS
 
 ## Support and contact details
 
