@@ -25,11 +25,12 @@
     color: gold;
 }
 
-.box-animation:hover {
+.box-animation {
     animation-name: change-image;
     animation-duration: 15s;
     animation-iteration-count: infinite;
-    padding: 200px 200px;
+    padding: 15%;
+    box-sizing: inherit;
 }
 
 .whitebackground {
@@ -59,7 +60,7 @@ hr {
 }
 
 body {
-    background-color: #d4f2d2;
+    background-color: #373d43;
 }
 
 h1.padding {
@@ -80,15 +81,15 @@ h1.padding {
 }
 
 .red {
-    background-color: rgb(224, 55, 13);
+    background-color: violet;
 }
 
 .ora {
-    background-color: orange;
+    background-color: indigo;
 }
 
 .yellow {
-    background-color: yellow;
+    background-color: rgb(0, 225, 255);
 }
 
 .green {
@@ -105,4 +106,8 @@ h1.padding {
 
 .vilet {
     background-color: violet;
+}
+
+.bigtext {
+    font-size: 2em;
 }
