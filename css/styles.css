@@ -25,11 +25,6 @@
     color: gold
 }
 
-.margin {
-    width: 1000px;
-    height: 400px
-}
-
 .box-animation:hover {
     animation-name: change-image;
     animation-duration: 15s;
@@ -64,7 +59,7 @@ hr {
 }
 
 body {
-    background-color: #373D43
+    background-color: #D4F2D2
 }
 
 h1.padding {
