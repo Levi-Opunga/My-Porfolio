@@ -15,9 +15,9 @@ Here is a for link preview:https://levi-opunga.github.io/My-Porfolio/
 - Open the index.html file with any web browser for viewing
 - To open project in a text editor with for easy working access the My Portfolio directory in which it is saved through the terminal
 - If using atom open by running command
-  '$ atom .'
+  `$ atom .`
 - If using Visual Studio Code open by running command
-  '$ code .'
+  `$ code .`
 
 ## Known Bugs
 
