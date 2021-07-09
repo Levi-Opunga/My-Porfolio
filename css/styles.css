@@ -30,7 +30,7 @@
     height: 400px
 }
 
-.box-animation {
+.box-animation:hover {
     animation-name: change-image;
     animation-duration: 15s;
     animation-iteration-count: infinite;
