@@ -6,8 +6,8 @@
 
 ## Description
 
-This is a website project for a potfolio I made as an aspiring software developer.It contains my personal details and may be used as a way of getting information about me and can be used ans a source of inspiration for anyone intending to build their own web-portfolio
-Here is a for link preview:https://levi-opunga.github.io/My-Porfolio/
+> > This is a website project for a potfolio I made as an aspiring software developer.It contains my personal details and may be used as a way of getting information about me and can be used a source of inspiration for anyone intending to build their own web-portfolio.
+> > Here is a for link preview:https://levi-opunga.github.io/My-Porfolio/
 
 ## Setup/Installation Requirements
 
@@ -25,8 +25,9 @@ No known bugs contact me if any is found.
 
 ## Technologies Used
 
-> HTML
-> CSS
+> > HTML
+
+> > CSS
 
 ## Support and contact details
 
@@ -37,4 +38,4 @@ HOTLINE:01889027899
 
 [Link](https://github.com/Levi-Opunga/My-Porfolio/blob/master/license)
 
-Copyright (c 2021 \* Levi Tech Inc
+Copyright (c 2021 \* Levi Tech Inc.
