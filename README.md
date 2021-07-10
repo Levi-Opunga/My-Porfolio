@@ -12,7 +12,7 @@
 
 ## Setup/Installation Requirements
 
-- Get files by cloning the repository by running command $ git clone
+- Get files by cloning the repository by running command `$ git clone https://github.com/Levi-Opunga/My-Porfolio.git`
 - Open the index.html file with any web browser for viewing
 - To open project in a text editor with for easy working access the My Portfolio directory in which it is saved through the terminal
 - If using atom open by running command
