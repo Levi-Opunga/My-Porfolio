@@ -40,6 +40,36 @@
     }
 }
 
+@keyframes change-image3 {
+    0% {
+        background-image: url(../images/headphones.jpg);
+    }
+    12% {
+        background-image: url(../images/jq68EgAzTTGPUi4mwY9vhN-1200-80.jpg);
+    }
+    24% {
+        background-image: url(../images/books2.jpg);
+    }
+    36% {
+        background-image: url(../images/youtube.png);
+    }
+    50% {
+        background-image: url(../images/final\ anime.png);
+    }
+    55% {
+        background-image: url(../images/Ableton-Live-Main-1204x642.jpg);
+    }
+    70% {
+        background-image: url(../images/cooking.jpeg);
+    }
+    86% {
+        background-image: url(../images/anime.jpg);
+    }
+    100% {
+        background-image: url(../images/headphones.jpg);
+    }
+}
+
 .violet {
     background-color: #beb7df;
     opacity: 0.75;
@@ -73,6 +103,14 @@ div.box-animation {
     box-sizing: inherit;
 }
 
+.box-animation2 {
+    animation-name: change-image3;
+    animation-duration: 32s;
+    animation-iteration-count: infinite;
+    padding: 10%;
+    box-sizing: inherit;
+}
+
 .whitebackground {
     background-color: azure;
 }
@@ -96,6 +134,11 @@ hr {
     opacity: 0.75;
 }
 
+.padding {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
 .defaulttext {
     color: #0d6ff0;
 }
@@ -112,10 +155,6 @@ h1.padding {
 
 .edges {
     border-radius: 10px;
-}
-
-#floatimage1 {
-    float: left;
 }
 
 .dark {
