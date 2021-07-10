@@ -1,15 +1,21 @@
 @keyframes change-image {
     0% {
-        background-image: url(../images/1.png);
+        background-image: url(../images/pawel-czerwinski-Qiy4hr18aGs-unsplash.jpg);
     }
-    25% {
-        background-image: url(../images/15-Presentation-Background-Examples28.jpeg);
+    27% {
+        background-image: url(../images/photo-1605478185737-99ae313e940c.jpeg);
     }
-    75% {
+    45% {
+        background-image: url(../images/pawel-czerwinski-4gWNAWeOvP0-unsplash.jpg);
+    }
+    72% {
         background-image: url(../images/wp2561064.jpg);
     }
+    90% {
+        background-image: url(../images/Pink-pastel-ppt-background.jpg);
+    }
     100% {
-        background-image: url(../images/85599507a79bb9b01035678715de32f6.jpg);
+        background-image: url(../images/pawel-czerwinski-Qiy4hr18aGs-unsplash.jpg);
     }
 }
 
@@ -33,6 +39,7 @@
 
 .violet {
     background-color: #beb7df;
+    opacity: 0.75;
 }
 
 .whitetext {
@@ -45,7 +52,7 @@
 
 .box-animation {
     animation-name: change-image;
-    animation-duration: 60s;
+    animation-duration: 75s;
     animation-iteration-count: infinite;
     padding: 0%;
     box-sizing: inherit;
@@ -53,7 +60,7 @@
 
 div.box-animation {
     animation-name: change-image2;
-    animation-duration: 15s;
+    animation-duration: 35s;
     animation-iteration-count: infinite;
     padding: 15%;
     box-sizing: inherit;
@@ -65,7 +72,7 @@ div.box-animation {
 
 hr.double {
     height: 10px;
-    border-top: 5px double#373D43;
+    border-top: 5px double#0d6ff0;
 }
 
 hr {
@@ -79,10 +86,11 @@ hr {
 
 .bluebackground {
     background-color: #17c1d8;
+    opacity: 0.75;
 }
 
 .defaulttext {
-    color: #4f99fa;
+    color: #0d6ff0;
 }
 
 body {
@@ -92,6 +100,7 @@ body {
 h1.padding {
     padding-top: 60px;
     padding-bottom: 60px;
+    opacity: 1;
 }
 
 .edges {
@@ -155,6 +164,6 @@ h3 {
     font-size: 1em;
 }
 
-ul.darkt {
+h1 ul.darkt {
     color: black;
 }
