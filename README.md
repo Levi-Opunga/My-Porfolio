@@ -32,8 +32,9 @@ No known bugs contact me if any is found.
 
 ## Support and contact details
 
-EMAIL:levio@mail.service
-HOTLINE:01889027899
+> > EMAIL: levio@mail.service
+
+> > HOTLINE: 01889027899
 
 ### License
 
