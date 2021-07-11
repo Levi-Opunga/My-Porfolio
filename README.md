@@ -40,6 +40,6 @@ No known bugs contact me if any is found.
 
 > > MIT
 
-> [Link](https://github.com/Levi-Opunga/My-Porfolio/blob/master/license)
+> > [Link](https://github.com/Levi-Opunga/My-Porfolio/blob/master/license)
 
 Copyright (c 2021 \* ) Levi Tech Inc.
