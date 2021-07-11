@@ -39,4 +39,4 @@ HOTLINE:01889027899
 
 [Link](https://github.com/Levi-Opunga/My-Porfolio/blob/master/license)
 
-Copyright (c 2021 \* Levi Tech Inc.
+Copyright (c 2021 \* ) Levi Tech Inc.
